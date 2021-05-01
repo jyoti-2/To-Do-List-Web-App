@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-  background: #edf0f1;
+  background: #612791;
   padding: 80px 0 0 0;
 }
 
@@ -23,7 +23,7 @@ header {
   left: 0;
   z-index: 5;
 
-  background: #25b99a;
+  background: #2ba107;
   box-shadow: 0px 2px 4px rgba(44, 62, 80, 0.15);
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -33,7 +33,7 @@ header input {
   width: 100%;
   height: 50px;
   float: left;
-  color: #fff;
+  color: rgb(56, 52, 52);
   font-size: 15px;
   font-weight: 400;
   text-indent: 18px;
@@ -74,7 +74,7 @@ header button {
   z-index:2;
 
   border-radius: 25px;
-  background: #fff;
+  background: rgb(95, 57, 165);
   border: 0px;
   box-shadow: none;
   outline: none;
@@ -119,7 +119,7 @@ ul.todo li {
   color: #444;
   line-height: 22px;
 
-  background: #fff;
+  background: rgb(207, 51, 24);
   border-radius: 5px;
   position: relative;
   box-shadow: 0px 1px 2px rgba(44, 62, 80, 0.10);
@@ -227,7 +227,7 @@ ul.todo#completed:before {
   content: '';
   width: 150px;
   height: 1px;
-  background: #d8e5e0;
+  background: #156a91;
 
   position: absolute;
   top: 30px;
@@ -251,5 +251,5 @@ ul.todo#completed:after {
   display: block;
   text-align: center;
   font-size: 12px;
-  color: #aaa;
-}
+  color: rgb(231, 24, 35);
+}s
