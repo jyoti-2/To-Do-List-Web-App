@@ -250,7 +250,7 @@ ul.todo#todo:empty:after {
 }
 
 ul.todo#completed:empty:after {
-  content: "You have yet to complete any tasks.";
+  content: "You have completed all your task.";
   color: rgba(240, 18, 18, 0.75);
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: large;
